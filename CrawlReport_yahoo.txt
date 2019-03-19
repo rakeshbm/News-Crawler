@@ -1,0 +1,35 @@
+Name: Rakesh Bhimappa Mali
+USC ID: 1134567919
+News site crawled: yahoo.com/news
+
+Fetch Statistics
+=====================
+# fetches attempted: 10363
+# fetches succeeded: 10145
+# fetches failed: 218
+
+Outgoing URLs
+=====================
+Total URLS extracted: 613227
+# unique URLs extracted: 86358
+# unique URLs within yahoo: 11168
+# unique URLs outside yahoo: 75190
+
+Status Codes
+=====================
+404 Not Found: 217
+500 Internal Server Error: 1
+200 OK: 10145
+
+File Size
+=====================
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 2
+100KB ~ <1MB: 10025
+>= 1MB: 1
+
+Content Types
+=====================
+text/html: 10028
+
