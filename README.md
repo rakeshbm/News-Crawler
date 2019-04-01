@@ -5,7 +5,7 @@ Configured and compiled Crawler4j web crawler to crawl www.yahoo.com/news
 
 The crawling depth was set to 16 and the limit was 20000 webpages.
 
-##Repository file descriptions:
+## Repository file descriptions:
 
 - MyCrawler.java - a customized crawler class in java to crawl intended webpages. <br />
 
